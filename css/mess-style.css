@@ -1,0 +1,24 @@
+#title {
+  background-color: #ff4c68;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: white;
+  padding:2rem 0;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.iphone-dog {
+  transform: rotate(35deg) scale(0.58);
+  float: left;
+}
+.navbar-brand{
+  font-size: 2rem;
+}
